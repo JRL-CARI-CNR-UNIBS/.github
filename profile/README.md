@@ -1,4 +1,4 @@
-# .github
+# Joint research Lab CARI CNR-STIIMA UNIBS-DIMI
 
 
 ## IK solver
@@ -15,7 +15,7 @@ _Common packages_:
 
 _Application-specific packages_:
 
-- ik_solver implementation using [Rosdyn](https://github.com/CNR-STIIMA-IRAS/rosdyn):  [rosdyn_ik_solver](https://github.com/JRL-CARI-CNR-UNIBS/rosdyn_ik_solver)
+- ik_solver implementation using [rosdyn](https://github.com/CNR-STIIMA-IRAS/rosdyn):  [rosdyn_ik_solver](https://github.com/JRL-CARI-CNR-UNIBS/rosdyn_ik_solver)
 
 
 _Collision checking package_:
