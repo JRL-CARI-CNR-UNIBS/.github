@@ -14,6 +14,12 @@ Compute all the IK solutions.
 
 - ik_solver implementation using [rosdyn](https://github.com/CNR-STIIMA-IRAS/rosdyn):  [rosdyn_ik_solver](https://github.com/JRL-CARI-CNR-UNIBS/rosdyn_ik_solver)
 
+- implementation for Universal Robot (using [ur_kinematics](https://github.com/ros-industrial/universal_robot)): [ur_ik_solver](https://github.com/JRL-CARI-CNR-UNIBS/ur_ik_solver)
+
+- implementation for robot mounted on positioners: [robot_on_guide_ik_solver](https://github.com/JRL-CARI-CNR-UNIBS/robot_on_guide_ik_solver)
+
+
+
 
 ## Collision checking package:
 
